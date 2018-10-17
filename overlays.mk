@@ -21,6 +21,12 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay
 
+# Qs tile style overlays
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDualToneCircle \
+    QStileSquircleTrim
+
 # QS header styles
 PRODUCT_PACKAGES += \
     QSHeaderGrey \
