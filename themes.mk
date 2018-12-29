@@ -95,4 +95,9 @@ PRODUCT_PACKAGES += \
     BrightnessTypeA \
     BrightnessTypeB \
     BrightnessTypeC \
-    BrightnessTypeD  
+    BrightnessTypeD
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch
