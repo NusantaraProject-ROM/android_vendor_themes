@@ -29,6 +29,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     MatchmakerOverlay
 
+# Cutout Overlay
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
+
 # Themes
 PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
