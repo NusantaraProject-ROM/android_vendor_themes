@@ -32,7 +32,8 @@ PRODUCT_PACKAGES += \
     QStileBadge \
     QStileBadgetwo \
     QStileDiamond \
-    QStileSquircleTrim
+    QStileSquircleTrim \
+    QSTileCookie
 
 # QS header styles
 PRODUCT_PACKAGES += \
