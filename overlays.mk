@@ -16,4 +16,5 @@
 PRODUCT_PACKAGES += \
     NexusLauncherReleaseOverlay \
     PixelSetupWizardOverlay \
-    PixelSetupWizardAodOverlay
+    PixelSetupWizardAodOverlay \
+    NoCutoutOverlay
