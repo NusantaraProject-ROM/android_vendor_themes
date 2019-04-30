@@ -25,7 +25,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     QStileCircleTrim \
     QStileDualToneCircle \
-    QStileSquircleTrim
+    QStileSquircleTrim \
+    QStileBadge \
+    QStileSquare \
+    QStileStar \
+    QStileTearDrop
 
 # QS header styles
 PRODUCT_PACKAGES += \
