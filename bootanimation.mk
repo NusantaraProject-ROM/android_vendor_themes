@@ -14,7 +14,7 @@ ifneq ($(filter marlin nash shamu,$(du_device)),)
 scr_resolution := 1440x2560
 endif
 
-ifneq ($(filter dumpling,$(du_device)),)
+ifneq ($(filter dumpling bonito,$(du_device)),)
 scr_resolution := 1080x2160
 endif
 
