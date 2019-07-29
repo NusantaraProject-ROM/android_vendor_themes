@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     GalleryGoPrebuilt \
     CalendarGooglePrebuilt \
-    CalculatorGooglePrebuilt
+    CalculatorGooglePrebuilt \
+    RetroMusicPlayerPrebuilt
