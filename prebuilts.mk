@@ -5,4 +5,5 @@ PRODUCT_PACKAGES += \
     GalleryGoPrebuilt \
     MatchmakerPrebuilt \
     CalendarGooglePrebuilt \
-    CalculatorGooglePrebuilt
+    CalculatorGooglePrebuilt \
+    Longshot
