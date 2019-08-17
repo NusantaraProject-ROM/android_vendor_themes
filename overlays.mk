@@ -87,4 +87,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     MD2Switch \
     OnePlusSwitch \
-    SwitchTelegram
+    SwitchTelegram \
+    Contained \
+    Retro \
+    Narrow
