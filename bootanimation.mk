@@ -14,7 +14,7 @@ ifneq ($(filter marlin,$(du_device)),)
 scr_resolution := 1440x2560
 endif
 
-ifneq ($(filter bonito sargo,$(du_device)),)
+ifneq ($(filter bonito sargo X00T,$(du_device)),)
 scr_resolution := 1080x2160
 endif
 
