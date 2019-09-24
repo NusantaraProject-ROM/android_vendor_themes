@@ -5,6 +5,9 @@ DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 # Boot animation
 include vendor/themes/bootanimation.mk
 
+# Prebuilts app
+include vendor/themes/prebuilts.mk
+
 # Fonts
 include vendor/themes/fonts.mk
 
