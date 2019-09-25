@@ -17,7 +17,7 @@
 <!-- Colors specific to DeviceDefault themes. These are mostly pass-throughs to enable
      overlaying new theme colors. -->
 <resources>
-
+<!--
     <color name="user_icon_1">#ff5e97f6</color>
     <color name="user_icon_2">#ff5c6bc0</color>
     <color name="user_icon_3">#ff26a69a</color>
@@ -26,9 +26,10 @@
     <color name="user_icon_6">#ff8bc34a</color>
     <color name="user_icon_7">#ffff9800</color>
     <color name="user_icon_8">#ffff7043</color>
-
+-->
     <!-- Multi-sim sim colors -->
+<!--
     <color name="Teal_700">#ff5a9af8</color>
     <color name="Teal_800">#ff5795f0</color>
-
+-->
 </resources>
