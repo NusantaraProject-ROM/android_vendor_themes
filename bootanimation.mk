@@ -20,5 +20,5 @@ endif
 
 ifneq ($(wildcard vendor/themes/bootanimation/$(scr_resolution).zip),)
 PRODUCT_COPY_FILES += \
-    vendor/themes/bootanimation/$(scr_resolution).zip:system/media/bootanimation.zip
+    vendor/themes/bootanimation/$(scr_resolution).zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip
 endif
