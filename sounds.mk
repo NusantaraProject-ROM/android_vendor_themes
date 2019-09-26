@@ -138,6 +138,6 @@ PRODUCT_COPY_FILES += \
 	vendor/themes/sounds/ringtones/Zen.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen.ogg \
 	vendor/themes/sounds/ringtones/Zen_too.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen_too.ogg
 
-PRODUCT_PROPERTY_OVERRIDES += \
+PRODUCT_PRODUCT_OVERRIDES += \
    ro.config.ringtone=Zen_too.ogg,Zen_too.ogg \
    ro.config.notification_sound=Chime.ogg
