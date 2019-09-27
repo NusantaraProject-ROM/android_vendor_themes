@@ -2,7 +2,8 @@
 PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     SettingsIntelligenceGooglePrebuilt \
-    SoundPickerPrebuilt
+    SoundPickerPrebuilt \
+    GalleryGoPrebuilt
 
 # Overlays
 PRODUCT_PACKAGES += \
