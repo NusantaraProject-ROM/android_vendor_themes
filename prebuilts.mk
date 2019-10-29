@@ -3,4 +3,7 @@ PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt \
-    GalleryGoPrebuilt
+    GalleryGoPrebuilt \
+    MatchmakerPrebuilt \
+    EmergencyInfoGoogleNoUi \
+    SafetyHubPrebuilt
