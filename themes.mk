@@ -81,4 +81,9 @@ PRODUCT_PACKAGES += \
     NusantaraClearThemeOverlay \
     NusantaraClearSystemUIOverlay \
     NusantaraClearSettingsOverlay
+
+# Stub
+PRODUCT_PACKAGES += \
+    NusantaraThemesStub
+
     
