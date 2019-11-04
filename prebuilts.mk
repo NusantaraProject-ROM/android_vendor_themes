@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
 # Overlays
 PRODUCT_PACKAGES += \
     NexusLauncherReleaseOverlay \
-    PixelSetupWizardOverlay
+    PixelSetupWizardOverlay \
+    PixelSetupWizardAodOverlay
