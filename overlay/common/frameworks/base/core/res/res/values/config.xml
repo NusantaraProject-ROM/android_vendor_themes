@@ -22,9 +22,14 @@
     <!-- Specifies the path that is used by AdaptiveIconDrawable class to crop launcher icons. -->
     <string name="config_icon_mask" translatable="false">"M50 0C77.6 0 100 22.4 100 50C100 77.6 77.6 100 50 100C22.4 100 0 77.6 0 50C0 22.4 22.4 0 50 0Z"</string>
 
-    <!-- Whether action menu items should be displayed in ALLCAPS or not.
-         Defaults to true. If this is not appropriate for specific locales
-         it should be disabled in that locale's resources. -->
-    <!--bool name="config_buttonTextAllCaps">false</bool-->
-
+    <bool name="config_buttonTextAllCaps">false</bool>
+    <bool name="config_unplugTurnsOnScreen">true</bool>
+    <bool name="config_sendPackageName">true</bool>
+    <dimen name="config_dialogCornerRadius">8.0dip</dimen>
+    <dimen name="config_buttonCornerRadius">4.0dip</dimen>
+    <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
+    <dimen name="config_bottomDialogCornerRadius">16.0dip</dimen>
+    <item type="dimen" name="config_fullTaskSnapshotScale">0.8</item>
+    <integer name="config_maxShortcutTargetsPerApp">8</integer>
+    <integer name="config_storageManagerDaystoRetainDefault">60</integer>
 </resources>

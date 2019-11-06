@@ -1,14 +1,10 @@
-# Overlays
-PRODUCT_PACKAGE_OVERLAYS += vendor/themes/overlay/common/
-
-# Accents
-#include vendor/themes/accents.mk
+# Include package overlays
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 
 # Boot animation
 include vendor/themes/bootanimation.mk
 
-# Sounds
-include vendor/themes/sounds.mk
-
-# Themes
-#include vendor/themes/themes.mk
+# Set Pixel blue light theme on Gboard
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.com.google.ime.theme_id=5
