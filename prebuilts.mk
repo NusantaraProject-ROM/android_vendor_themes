@@ -4,9 +4,3 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt \
     GalleryGoPrebuilt
-
-# Overlays
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay \
-    PixelSetupWizardOverlay \
-    PixelSetupWizardAodOverlay
