@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     CalendarGooglePrebuilt \
     CalculatorGooglePrebuilt \
     Longshot \
-    NexusLauncherRelease 
+    NexusLauncherRelease \
+    OPScreenRecorder
