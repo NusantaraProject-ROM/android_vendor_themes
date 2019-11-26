@@ -8,4 +8,12 @@
         <font weight="700" style="italic">GoogleSans-BoldItalic.ttf</font>
     </family>
     <alias name="google-sans-medium" to="google-sans" weight="500" />
+
+    <family customizationType="new-named-family" name="circularstd">
+      <font weight="400" style="normal">CircularStd.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="oneplusslate">
+      <font weight="400" style="normal">OnePlusSlate.ttf</font>
+    </family>
 </fonts-modification>
