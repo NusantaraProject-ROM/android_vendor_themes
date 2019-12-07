@@ -6,4 +6,6 @@ PRODUCT_PACKAGES += \
     GalleryGoPrebuilt \
     MatchmakerPrebuilt \
     EmergencyInfoGoogleNoUi \
-    SafetyHubPrebuilt
+    SafetyHubPrebuilt \
+    CalendarGooglePrebuilt \
+    CalculatorGooglePrebuilt
