@@ -14,7 +14,7 @@ ifneq ($(filter ,$(du_device)),)
 scr_resolution := 1440x2560
 endif
 
-ifneq ($(filter X00T,$(du_device)),)
+ifneq ($(filter X00T lavender,$(du_device)),)
 scr_resolution := 1080x2160
 endif
 
