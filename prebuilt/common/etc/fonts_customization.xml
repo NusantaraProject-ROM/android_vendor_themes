@@ -13,7 +13,31 @@
       <font weight="400" style="normal">CircularStd.ttf</font>
     </family>
 
-    <family customizationType="new-named-family" name="oneplusslate">
-      <font weight="400" style="normal">OnePlusSlate.ttf</font>
+    <family customizationType="new-named-family" name="Slate">
+        <font weight="100" style="normal">SlateForOnePlus-Thin.ttf</font>
+        <font weight="100" style="italic">Roboto-ThinItalic.ttf</font>
+        <font weight="200" style="normal">SlateForOnePlus-Light.ttf</font>
+        <font weight="200" style="italic">Roboto-LightItalic.ttf</font>
+        <font weight="300" style="normal">SlateForOnePlus-Book.ttf</font>
+        <font weight="300" style="italic">Roboto-LightItalic.ttf</font>
+        <font weight="400" style="normal">SlateForOnePlus-Book.ttf</font>
+        <font weight="400" style="italic">Roboto-Italic.ttf</font>
+        <font weight="500" style="normal">SlateForOnePlus-Regular.ttf</font>
+        <font weight="500" style="italic">Roboto-MediumItalic.ttf</font>
+        <font weight="600" style="normal">SlateForOnePlus-Medium.ttf</font>
+        <font weight="600" style="italic">Roboto-MediumItalic.ttf</font>
+        <font weight="700" style="normal">SlateForOnePlus-Medium.ttf</font>
+        <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
+        <font weight="800" style="normal">SlateForOnePlus-Bold.ttf</font>
+        <font weight="800" style="italic">Roboto-BoldItalic.ttf</font>
+        <font weight="900" style="normal">SlateForOnePlus-Black.ttf</font>
+        <font weight="900" style="italic">Roboto-BlackItalic.ttf</font>
     </family>
+    <alias name="Slate" to="Slate" weight="500"/>
+    <alias name="Slate-thin" to="Slate" weight="100" />
+    <alias name="Slate-light" to="Slate" weight="200" />
+    <alias name="Slate-book" to="Slate" weight="300" />
+    <alias name="Slate-medium" to="Slate" weight="500" />
+    <alias name="Slate-bold" to="Slate" weight="700" />
+    <alias name="Slate-black" to="Slate" weight="900" />
 </fonts-modification>

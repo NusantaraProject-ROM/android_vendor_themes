@@ -35,4 +35,10 @@ PRODUCT_COPY_FILES += \
     vendor/themes/prebuilt/common/fonts/SonySketch/SonySketch.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SonySketch.ttf \
     vendor/themes/prebuilt/common/fonts/Surfer/Surfer.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Surfer.ttf \
     vendor/themes/prebuilt/common/fonts/CircularStd/CircularStd.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CircularStd.ttf \
-    vendor/themes/prebuilt/common/fonts/OnePlusSlate/OnePlusSlate.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/OnePlusSlate.ttf
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Black.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Black.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Bold.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Book.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Book.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Light.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Medium.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Regular.ttf \
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Thin.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Thin.ttf
