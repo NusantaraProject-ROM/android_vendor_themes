@@ -41,4 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Light.ttf \
     vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Medium.ttf \
     vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Regular.ttf \
-    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Thin.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Thin.ttf
+    vendor/themes/prebuilt/common/fonts/OnePlusSlate/SlateForOnePlus-Thin.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateForOnePlus-Thin.ttf \
+    vendor/themes/prebuilt/common/fonts/SFPro/SFProDisplay-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProDisplay-Regular.ttf \
+    vendor/themes/prebuilt/common/fonts/SFPro/SFProDisplay-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProDisplay-Medium.ttf \
+    vendor/themes/prebuilt/common/fonts/SFPro/SFProText-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProText-Regular.ttf \
+    vendor/themes/prebuilt/common/fonts/SFPro/SFProText-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProText-Medium.ttf
