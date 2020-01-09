@@ -21,5 +21,11 @@
     <!-- Dialog background color -->
     <color name="dialog_background">#FF303135</color>
 
+    <!-- Dialog background color -->
+    <color name="notification_importance_selection_bg">#ff202125</color>
+
+    <color name="switchbar_switch_thumb_tint">#ff202125</color>
+    <color name="homepage_card_dismissal_background">#ff202125</color>
+    <color name="contextual_card_background">#ff202125</color>
 </resources>
 
