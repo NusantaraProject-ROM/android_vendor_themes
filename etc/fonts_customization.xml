@@ -9,6 +9,10 @@
     </family>
     <alias name="google-sans-medium" to="google-sans" weight="500" />
 
+    <family customizationType="new-named-family" name="arbutus-slab">
+      <font weight="400" style="normal">ArbutusSlab-Regular.ttf</font>
+    </family>
+
     <family customizationType="new-named-family" name="circularstd">
       <font weight="400" style="normal">CircularStd.ttf</font>
     </family>
