@@ -8,7 +8,8 @@ PRODUCT_PACKAGES += \
     FontGoogleSansSourceOverlay \
     FontOneplusSlateSource \
     FontSamsungOneSourceOverlay \
-    FontFiraSansSourceOverlay
+    FontFiraSansSourceOverlay \
+    FontUbuntuSourceOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -29,4 +30,9 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/FiraSans-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Italic.ttf \
     vendor/themes/fonts/prebuilt/FiraSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Medium.ttf \
     vendor/themes/fonts/prebuilt/FiraSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-MediumItalic.ttf \
-    vendor/themes/fonts/prebuilt/FiraSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Regular.ttf
+    vendor/themes/fonts/prebuilt/FiraSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Regular.ttf \
+    vendor/themes/fonts/prebuilt/Ubuntu-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Bold.ttf \
+    vendor/themes/fonts/prebuilt/Ubuntu-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-BoldItalic.ttf \
+    vendor/themes/fonts/prebuilt/Ubuntu-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Medium.ttf \
+    vendor/themes/fonts/prebuilt/Ubuntu-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-MediumItalic.ttf \
+    vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf
