@@ -35,7 +35,11 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
-    SolarizedDarkSystemUIOverlay
+    SolarizedDarkSystemUIOverlay \
+    BakedGreenSystemOverlay \
+    BakedGreenSystemUIOverlay \
+    ChocoXSystemOverlay \
+    ChocoXSystemUIOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
