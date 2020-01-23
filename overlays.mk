@@ -27,3 +27,25 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay
+
+# Fonts
+PRODUCT_PACKAGES += \
+    FontRubikRubikOverlay \
+    FontArbutusSourceOverlay \
+    FontArvoLatoOverlay \
+    FontGoogleSansOverlay \
+    FontAclonicaSourceOverlay \
+    FontAmaranteSourceOverlay \
+    FontBariolSourceOverlay \
+    FontCagliostroSourceOverlay \
+    FontComicSansSourceOverlay \
+    FontCoolstorySourceOverlay \
+    FontGoogleSansSourceOverlay \
+    FontLGSmartGothicSourceOverlay \
+    FontNotoSerifSourceOverlay \
+    FontRosemarySourceOverlay \
+    FontSFProOverlay \
+    FontSonySketchSourceOverlay \
+    FontSurferSourceOverlay \
+    FontCircularStdOverlay \
+    FontSlateForOnePlusOverlay
