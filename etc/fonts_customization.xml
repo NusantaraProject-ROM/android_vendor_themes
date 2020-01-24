@@ -220,4 +220,31 @@
     <alias name="goudy" to="firasans" />
     <alias name="fantasy" to="firasans" />
     <alias name="ITC Stone Serif" to="firasans" />
+
+    <family customizationType="new-named-family" name="samsungone">
+        <font weight="400" style="normal">SamsungOne.ttf</font>
+    </family>
+    <alias name="samsungone-bold" to="samsungone" weight="600" />
+    <alias name="times" to="samsungone" />
+    <alias name="times new roman" to="samsungone" />
+    <alias name="palatino" to="samsungone" />
+    <alias name="georgia" to="samsungone" />
+    <alias name="baskerville" to="samsungone" />
+    <alias name="goudy" to="samsungone" />
+    <alias name="fantasy" to="samsungone" />
+    <alias name="ITC Stone Serif" to="samsungone" />
+
+    <family customizationType="new-named-family" name="comicsans">
+        <font weight="400" style="normal">Comic_Sans.ttf</font>
+    </family>
+    <alias name="comicsans-semi-bold" to="comicsans" weight="600" />
+    <alias name="comicsans-bold" to="comicsans" weight="700" />
+    <alias name="times" to="comicsans" />
+    <alias name="times new roman" to="comicsans" />
+    <alias name="palatino" to="comicsans" />
+    <alias name="georgia" to="comicsans" />
+    <alias name="baskerville" to="comicsans" />
+    <alias name="goudy" to="comicsans" />
+    <alias name="fantasy" to="comicsans" />
+    <alias name="ITC Stone Serif" to="comicsans" />
 </fonts-modification>

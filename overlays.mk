@@ -48,4 +48,6 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay \
     FontCircularStdOverlay \
-    FontSlateForOnePlusOverlay
+    FontSlateForOnePlusOverlay \
+    FontSamsungOneSourceOverlay \
+    FontFiraSansSourceOverlay
