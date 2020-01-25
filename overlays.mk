@@ -21,6 +21,10 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay
 
+# Pixel Launcher
+PRODUCT_PACKAGES += \
+    PixelLauncherOverlay
+
 # Themes
 PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
