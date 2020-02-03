@@ -59,6 +59,10 @@ PRODUCT_PACKAGES += \
     HideCutout \
     StatusBarStock
 
+# Miui brightness Overlay
+PRODUCT_PACKAGES += \
+    BrightnessSliderOverlay
+
 # Themes
 PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
