@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     MatchmakerPrebuilt \
     CalendarGooglePrebuilt \
     CalculatorGooglePrebuilt \
-    Longshot
+    Longshot \
+    NexusLauncherRelease 
