@@ -14,7 +14,8 @@
 
 # Cutout
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    NoCutoutOverlay \
+    BrightnessSliderOverlay
 
 # Icon shape overlays
 PRODUCT_PACKAGES += \
