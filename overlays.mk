@@ -25,8 +25,9 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay
 
-# Pixel Launcher
+# Google Overlay
 PRODUCT_PACKAGES += \
+    MatchmakerOverlay \
     PixelLauncherOverlay
 
 # Themes
