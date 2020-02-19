@@ -46,7 +46,9 @@ PRODUCT_PACKAGES += \
     BakedGreenSystemOverlay \
     BakedGreenSystemUIOverlay \
     ChocoXSystemOverlay \
-    ChocoXSystemUIOverlay
+    ChocoXSystemUIOverlay \
+    DarkGreySystemOverlay \
+    DarkGreySystemUIOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
