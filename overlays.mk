@@ -64,3 +64,10 @@ PRODUCT_PACKAGES += \
     FontSlateForOnePlusOverlay \
     FontSamsungOneSourceOverlay \
     FontFiraSansSourceOverlay
+
+# Navbar
+PRODUCT_PACKAGES += \
+    NavbarAsusOverlay \
+    NavbarOnePlusOverlay \
+    NavbarOneUiOverlay \
+    NavbarTecnoCamonOverlay
