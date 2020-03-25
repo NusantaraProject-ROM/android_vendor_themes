@@ -118,7 +118,12 @@ PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay
+    NavbarTecnoCamonOverlay \
+    NavbarAndroidOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
+    NavbarSammyOverlay
 
 # Switch themes
 PRODUCT_PACKAGES += \
