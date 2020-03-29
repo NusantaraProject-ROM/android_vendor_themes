@@ -27,8 +27,7 @@ PRODUCT_PACKAGES += \
 
 # Google Overlay
 PRODUCT_PACKAGES += \
-    MatchmakerOverlay \
-    PixelLauncherOverlay
+    MatchmakerOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
