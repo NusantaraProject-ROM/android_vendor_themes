@@ -97,6 +97,7 @@ PRODUCT_PACKAGES += \
     FontComicSansSourceOverlay \
     FontCoolstorySourceOverlay \
     FontGoogleSansSourceOverlay \
+    FontGoogleSansMediumSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontNotoSerifSourceOverlay \
     FontRosemarySourceOverlay \

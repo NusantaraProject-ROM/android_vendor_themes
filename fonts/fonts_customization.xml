@@ -20,6 +20,24 @@
     <alias name="fantasy" to="googlesans" />
     <alias name="ITC Stone Serif" to="googlesans" />
 
+    <family customizationType="new-named-family" name="googlesansmedium">
+        <font weight="400" style="normal">GoogleSans-Medium.ttf</font>
+        <font weight="400" style="italic">GoogleSans-MediumItalic.ttf</font>
+        <font weight="700" style="normal">GoogleSans-Bold.ttf</font>
+        <font weight="700" style="italic">GoogleSans-BoldItalic.ttf</font>
+    </family>
+    <alias name="googlesans-medium" to="googlesansmedium" weight="500" />
+    <alias name="googlesans-semi-bold" to="googlesansmedium" weight="600" />
+    <alias name="googlesans-bold" to="googlesansmedium" weight="700" />
+    <alias name="times" to="googlesansmedium" />
+    <alias name="times new roman" to="googlesansmedium" />
+    <alias name="palatino" to="googlesansmedium" />
+    <alias name="georgia" to="googlesansmedium" />
+    <alias name="baskerville" to="googlesansmedium" />
+    <alias name="goudy" to="googlesansmedium" />
+    <alias name="fantasy" to="googlesansmedium" />
+    <alias name="ITC Stone Serif" to="googlesansmedium" />
+
     <family customizationType="new-named-family" name="lato">
       <font weight="400" style="normal">Lato-Regular.ttf</font>
       <font weight="400" style="italic">Lato-Italic.ttf</font>
