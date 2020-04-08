@@ -48,7 +48,9 @@ PRODUCT_PACKAGES += \
     ChocoXSystemOverlay \
     ChocoXSystemUIOverlay \
     DarkGreySystemOverlay \
-    DarkGreySystemUIOverlay
+    DarkGreySystemUIOverlay \
+    MaterialOceanSystemOverlay \
+    MaterialOceanSystemUIOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
