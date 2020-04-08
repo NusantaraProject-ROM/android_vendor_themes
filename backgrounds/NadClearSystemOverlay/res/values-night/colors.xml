@@ -20,7 +20,7 @@
     <!-- The background color of a notification card. -->
     <color name="notification_material_background_color">#80000000</color>
 
-    <color name="du_themes_qs_inactive_color">#ea000000</color>
+    <color name="theme_generic_semi_transparent_color">#ea000000</color>
 
     <color name="material_grey_800">#80000000</color>
 

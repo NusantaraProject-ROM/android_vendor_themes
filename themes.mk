@@ -4,6 +4,8 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay \
+    MaterialOceanSystemOverlay \
+    MaterialOceanSystemUIOverlay \
     NadClearSystemOverlay \
     NadClearSystemUIOverlay
 
