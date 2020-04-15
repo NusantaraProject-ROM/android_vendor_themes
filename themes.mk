@@ -30,3 +30,10 @@ PRODUCT_PACKAGES += \
     NavbarNexusOverlay \
     NavbarOldOverlay \
     NavbarSammyOverlay
+
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
