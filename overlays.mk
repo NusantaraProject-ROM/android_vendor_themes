@@ -21,6 +21,13 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay
 
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
+
 # Google Overlay
 PRODUCT_PACKAGES += \
     MatchmakerOverlay
