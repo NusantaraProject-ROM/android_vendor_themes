@@ -1,7 +1,7 @@
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/themes/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
 PRODUCT_COPY_FILES += \
-    vendor/themes/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
+    vendor/themes/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
 # Favourite fonts
 PRODUCT_COPY_FILES += \
