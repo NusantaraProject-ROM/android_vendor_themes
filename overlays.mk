@@ -71,7 +71,10 @@ PRODUCT_PACKAGES += \
     FontSlateForOnePlusOverlay \
     FontSamsungOneSourceOverlay \
     FontComfortaaSourceOverlay \
-    FontFiraSansSourceOverlay
+    FontFiraSansSourceOverlay \
+    FontExotwoSourceOverlay \
+    FontStoropiaSourceOverlay \
+    FontUbuntuSourceOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
