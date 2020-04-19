@@ -70,6 +70,7 @@ PRODUCT_PACKAGES += \
     FontCircularStdOverlay \
     FontSlateForOnePlusOverlay \
     FontSamsungOneSourceOverlay \
+    FontComfortaaSourceOverlay \
     FontFiraSansSourceOverlay
 
 # Navbar
