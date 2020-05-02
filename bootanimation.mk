@@ -2,7 +2,7 @@
 
 du_device := $(patsubst %f,%,$(subst du_,,$(TARGET_PRODUCT)))
 
-ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vince tulip X00T,$(du_device)),)
+ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vince tulip violet X00T,$(du_device)),)
 scr_resolution := 1080
 endif
 
