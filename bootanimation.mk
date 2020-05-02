@@ -2,12 +2,12 @@
 
 du_device := $(patsubst %f,%,$(subst du_,,$(TARGET_PRODUCT)))
 
-ifneq ($(filter raphael enchilada,$(du_device)),)
-scr_resolution := 1080p
+ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vince tulip X00T,$(du_device)),)
+scr_resolution := 1080
 endif
 
-ifneq ($(filter ysl land lavender mido wayne whyred platina gingko vince tulip X00T,$(du_device)),)
-scr_resolution := 1080
+ifneq ($(filter ysl land,$(du_device)),)
+scr_resolution := 720
 endif
 
 ifneq ($(wildcard vendor/themes/bootanimation/$(scr_resolution).zip),)
