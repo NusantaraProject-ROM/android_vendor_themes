@@ -2,6 +2,5 @@
 PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     GalleryGoPrebuilt \
-    MatchmakerPrebuilt \
     CalendarGooglePrebuilt \
     CalculatorGooglePrebuilt
