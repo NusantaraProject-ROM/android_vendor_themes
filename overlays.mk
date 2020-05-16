@@ -90,4 +90,5 @@ PRODUCT_PACKAGES += \
     SwitchTelegram \
     Contained \
     Retro \
-    Narrow
+    Narrow \
+    Stockish
