@@ -57,7 +57,6 @@ PRODUCT_PACKAGES += \
     FontRubikRubikOverlay \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
-    FontGoogleSansOverlay \
     FontAclonicaSourceOverlay \
     FontAmaranteSourceOverlay \
     FontBariolSourceOverlay \
