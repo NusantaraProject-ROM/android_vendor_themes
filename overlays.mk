@@ -28,10 +28,6 @@ PRODUCT_PACKAGES += \
     QSHeaderAccent \
     QSHeaderTransparent
 
-# Google Overlay
-PRODUCT_PACKAGES += \
-    MatchmakerOverlay
-
 # Cutout Overlay
 PRODUCT_PACKAGES += \
     HideCutout \
