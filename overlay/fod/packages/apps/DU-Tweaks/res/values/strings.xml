@@ -26,4 +26,5 @@
     <string name="fod_recog_animation_op_energy">Energy</string>
     <string name="fod_recog_animation_miui_aurora">Aurora</string>
     <string name="fod_recog_animation_miui_whirlwind">Whirlwind</string>
+    <string name="fod_recog_animation_miui_nebula">Nebula</string>
 </resources>
