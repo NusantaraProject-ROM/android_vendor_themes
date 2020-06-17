@@ -27,6 +27,7 @@
         <item>@string/fod_recog_animation_coloros7_2</item>
         <item>@string/fod_recog_animation_op_energy</item>
         <item>@string/fod_miui_aurora_recognizing_anim</item>
+        <item>@string/fod_recog_animation_miui_whirlwind</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -40,5 +41,6 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
+        <item>10</item>
     </string-array>
 </resources>
