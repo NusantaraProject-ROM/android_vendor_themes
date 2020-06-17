@@ -25,10 +25,10 @@
     It's fine to override this color since at that point the shade was dark. -->
     <color name="notification_legacy_background_color">#FF0F111A</color>
 
-    <color name="volume_background_tint">#ff100808</color>
+    <color name="volume_background_tint">#FF0F111A</color>
 
     <!-- OOS dismiss style color -->
-    <color name="recents_dismiss_all_background_color">#ff100808</color>
+    <color name="recents_dismiss_all_background_color">#FF0F111A</color>
 
     <!-- The color of the background in the top part of QSCustomizer -->
     <color name="qs_customize_background">#FF0F111A</color>
