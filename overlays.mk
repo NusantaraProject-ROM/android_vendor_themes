@@ -20,7 +20,11 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay \
-    IconShapeRoundedHexagonOverlay
+    IconShapeRoundedHexagonOverlay \
+    IconShapePebbleOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeVesselOverlay
+
 
 # Qs tile style overlays
 PRODUCT_PACKAGES += \
