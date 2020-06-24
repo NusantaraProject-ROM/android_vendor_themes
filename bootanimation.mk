@@ -6,7 +6,7 @@ ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vinc
 scr_resolution := 1080
 endif
 
-ifneq ($(filter ysl riva land,$(du_device)),)
+ifneq ($(filter ysl riva land santoni,$(du_device)),)
 scr_resolution := 720
 endif
 
