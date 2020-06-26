@@ -34,7 +34,14 @@ PRODUCT_PACKAGES += \
     QStileDiamond \
     QStileSquircleTrim \
     QSTileCookie \
-    QStileCircleOutline
+    QStileCircleOutline \
+    QSTileInkdrop \
+    QSTileWavey \
+    QSTileAttemptMountain \
+    QSTileDottedCircle \
+    QSTileNinja \
+    QSTileTriangles \
+    QSTileNeonLight
 
 # QS header styles
 PRODUCT_PACKAGES += \
