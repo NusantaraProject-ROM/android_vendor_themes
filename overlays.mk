@@ -33,7 +33,8 @@ PRODUCT_PACKAGES += \
     QStileBadgetwo \
     QStileDiamond \
     QStileSquircleTrim \
-    QSTileCookie
+    QSTileCookie \
+    QStileCircleOutline
 
 # QS header styles
 PRODUCT_PACKAGES += \
