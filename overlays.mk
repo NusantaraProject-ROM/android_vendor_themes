@@ -23,17 +23,17 @@ PRODUCT_PACKAGES += \
 
 # Qs tile style overlays
 PRODUCT_PACKAGES += \
-    QStileCircleTrim \
-    QStileDualToneCircle \
-    QStileStar \
-    QStileSquare \
-    QStileGear \
-    QStileBadge \
-    QStileBadgetwo \
-    QStileDiamond \
-    QStileSquircleTrim \
+    QSTileCircleTrim \
+    QSTileDualToneCircle \
+    QSTileStar \
+    QSTileSquare \
+    QSTileGear \
+    QSTileBadge \
+    QSTileBadgetwo \
+    QSTileDiamond \
+    QSTileSquircleTrim \
     QSTileCookie \
-    QStileCircleOutline \
+    QSTileCircleOutline \
     QSTileInkdrop \
     QSTileWavey \
     QSTileAttemptMountain \
