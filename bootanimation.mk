@@ -2,11 +2,12 @@
 
 du_device := $(patsubst %f,%,$(subst du_,,$(TARGET_PRODUCT)))
 
-ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vince twolip beryllium violet X00T RMX1801 tissot x2 jasmine_sprout,$(du_device)),)
+ifneq ($(filter raphael enchilada lavender mido wayne whyred platina ginkgo vince twolip beryllium violet X00T RMX1801 tissot x2 jasmine_sprout sirius grus
+,$(du_device)),)
 scr_resolution := 1080
 endif
 
-ifneq ($(filter ysl riva land santoni,$(du_device)),)
+ifneq ($(filter ysl riva land santoni X00P kenzo,$(du_device)),)
 scr_resolution := 720
 endif
 
