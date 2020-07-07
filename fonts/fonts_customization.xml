@@ -120,6 +120,10 @@
     <alias name="fantasy" to="amarante" />
     <alias name="ITC Stone Serif" to="amarante" />
 
+    <family customizationType="new-named-family" name="linotte">
+        <font weight="300" style="normal">Linotte.ttf</font>
+    </family>
+
     <family customizationType="new-named-family" name="bariol">
       <font weight="300" style="normal">Bariol-Regular.ttf</font>
     </family>

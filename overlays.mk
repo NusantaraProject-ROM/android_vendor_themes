@@ -96,7 +96,8 @@ PRODUCT_PACKAGES += \
     FontFiraSansSourceOverlay \
     FontExotwoSourceOverlay \
     FontStoropiaSourceOverlay \
-    FontUbuntuSourceOverlay
+    FontUbuntuSourceOverlay \
+    FontLinotteOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
