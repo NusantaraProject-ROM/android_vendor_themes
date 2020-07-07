@@ -221,6 +221,10 @@
     <alias name="fantasy" to="firasans" />
     <alias name="ITC Stone Serif" to="firasans" />
 
+    <family name="linotte">
+        <font weight="300" style="normal">Linotte.ttf</font>
+    </family>
+
     <family name="ubuntu">
         <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
         <font weight="500" style="normal">Ubuntu-Medium.ttf</font>

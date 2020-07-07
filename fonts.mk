@@ -11,7 +11,8 @@ PRODUCT_PACKAGES += \
     FontFiraSansSourceOverlay \
     FontUbuntuSourceOverlay \
     FontTitilliumWebSourceOverlay \
-    FontCaviarDreamsSourceOverlay
+    FontCaviarDreamsSourceOverlay \
+    FontLinotteOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -24,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     vendor/themes/fonts/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/themes/fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
+    vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/themes/fonts/prebuilt/SamsungOne.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SamsungOne.ttf \
     vendor/themes/fonts/prebuilt/SlateFromOP-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Light.ttf \
     vendor/themes/fonts/prebuilt/SlateFromOP-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Regular.ttf \
