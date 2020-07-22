@@ -10,7 +10,8 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontFiraSansSourceOverlay \
     FontUbuntuSourceOverlay \
-    FontTitilliumWebSourceOverlay
+    FontTitilliumWebSourceOverlay \
+    FontCaviarDreamsSourceOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -44,4 +45,8 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Ubuntu-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-BoldItalic.ttf \
     vendor/themes/fonts/prebuilt/Ubuntu-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Medium.ttf \
     vendor/themes/fonts/prebuilt/Ubuntu-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-MediumItalic.ttf \
-    vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf
+    vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf \
+    vendor/themes/fonts/prebuilt/CaviarDreams.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams.ttf \
+    vendor/themes/fonts/prebuilt/CaviarDreams_Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_Bold.ttf \
+    vendor/themes/fonts/prebuilt/CaviarDreams_BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_BoldItalic.ttf \
+    vendor/themes/fonts/prebuilt/CaviarDreams_Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_Italic.ttf

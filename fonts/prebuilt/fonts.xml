@@ -182,6 +182,23 @@
     <alias name="fantasy" to="samsungone" />
     <alias name="ITC Stone Serif" to="samsungone" />
 
+    <family name="caviardreams">
+        <font weight="400" style="normal">CaviarDreams.ttf</font>
+        <font weight="400" style="italic">CaviarDreams_Italic.ttf</font>
+        <font weight="700" style="normal">CaviarDreams_Bold.ttf</font>
+        <font weight="700" style="italic">CaviarDreams_BoldItalic.ttf</font>
+    </family>
+    <alias name="caviardreams-semi-bold" to="caviardreams" weight="600" />
+    <alias name="caviardreams-bold" to="caviardreams" weight="700" />
+    <alias name="times" to="caviardreams" />
+    <alias name="times new roman" to="caviardreams" />
+    <alias name="palatino" to="caviardreams" />
+    <alias name="georgia" to="caviardreams" />
+    <alias name="baskerville" to="caviardreams" />
+    <alias name="goudy" to="caviardreams" />
+    <alias name="fantasy" to="caviardreams" />
+    <alias name="ITC Stone Serif" to="caviardreams" />
+
     <family name="firasans">
         <font weight="400" style="normal">FiraSans-Regular.ttf</font>
         <font weight="400" style="italic">FiraSans-Italic.ttf</font>
