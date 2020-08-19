@@ -72,7 +72,9 @@ PRODUCT_PACKAGES += \
     DarkGreySystemOverlay \
     DarkGreySystemUIOverlay \
     MaterialOceanSystemOverlay \
-    MaterialOceanSystemUIOverlay
+    MaterialOceanSystemUIOverlay \
+    NadClearSystemOverlay \
+    NadClearSystemUIOverlay
 
 # GVM
 PRODUCT_PACKAGES += \
