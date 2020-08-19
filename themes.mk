@@ -4,6 +4,8 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay \
+    NadClearSystemOverlay \
+    NadClearSystemUIOverlay
 
 # Icon shape
 PRODUCT_PACKAGES += \
