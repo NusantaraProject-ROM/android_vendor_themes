@@ -45,7 +45,10 @@ PRODUCT_PACKAGES += \
     QSTileDottedCircle \
     QSTileNinja \
     QSTileTriangles \
-    QSTileNeonLight
+    QSTileNeonLight \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileOxygen
 
 # QS header styles
 PRODUCT_PACKAGES += \
