@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <dimen name="quick_qs_total_height">220dp</dimen>
-    <dimen name="extra_qs_footer_height">108dp</dimen>
-    <dimen name="qs_background_inset">50dp</dimen>
-    <dimen name="qs_drag_handle_margin_top">48dp</dimen>
-
-</resources>
