@@ -3,4 +3,13 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
-    SolarizedDarkSystemUIOverlay
+    SolarizedDarkSystemUIOverlay \
+
+# Icon shape
+PRODUCT_PACKAGES += \
+    IconShapePebbleOverlay \
+    IconShapeRoundedRectOverlay \
+    IconShapeSquircleOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
+    IconShapeVesselOverlay
