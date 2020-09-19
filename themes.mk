@@ -12,4 +12,5 @@ PRODUCT_PACKAGES += \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    IconShapeHeartOverlay
