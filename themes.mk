@@ -31,6 +31,10 @@ PRODUCT_PACKAGES += \
     NavbarOldOverlay \
     NavbarSammyOverlay
 
+PRODUCT_PACKAGES += \
+    GesturalNavigationOverlayLong \
+    GesturalNavigationOverlayMedium
+
 # QS header styles
 PRODUCT_PACKAGES += \
     QSHeaderGrey \
