@@ -33,7 +33,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium
+    GesturalNavigationOverlayMedium \
+    GesturalNavigationOverlayHidden
 
 # QS header styles
 PRODUCT_PACKAGES += \
