@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@*android:id/background"
+        android:gravity="center_vertical|fill_horizontal">
+        <shape android:shape="rectangle"
+android:tint="?android:colorForeground">
+            <corners
+                android:radius="10dp" />
+            <size android:height="16dp" />
+            <gradient
+                android:angle="270"
+                android:startColor="#33000000"
+                android:centerColor="#11000000"
+                android:endColor="#11000000"
+                android:centerY="0.2"
+                android:type="linear"
+                />
+        </shape>
+    </item>
+    <item android:id="@*android:id/background"
+        android:gravity="center_vertical|fill_horizontal"
+
+        android:left="5dp"
+        android:right="5dp">
+
+        <shape android:shape="rectangle"
+            android:tint="?android:colorForeground">
+            <corners android:radius="8dp"/>
+            <size android:height="10dp" />
+            <solid android:color="#a4ffffff" />
+        </shape>
+
+
+    </item>
+
+    <item android:id="@*android:id/progress"
+        android:gravity="center_vertical|fill_horizontal"
+
+        android:left="5dp"
+        android:right="5dp">
+        <scale android:scaleWidth="100%">
+            <selector>
+                <item android:state_enabled="false"
+                    android:drawable="@*android:color/transparent" />
+                <item>
+                    <shape android:shape="rectangle"
+                        android:tint="@*android:color/accent_device_default">
+                        <corners android:radius="8dp"/>
+                        <size android:height="10dp" />
+                        <solid android:color="#ffffff" />
+                    </shape>
+                </item>
+            </selector>
+        </scale>
+    </item>
+</layer-list>

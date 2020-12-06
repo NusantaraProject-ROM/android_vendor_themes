@@ -17,5 +17,5 @@
 -->
 <resources>
     <!-- dimensions for the navigation bar handle -->
-    <dimen name="navigation_handle_bottom">3dp</dimen>
+    <dimen name="navigation_handle_bottom">4dp</dimen>
 </resources>

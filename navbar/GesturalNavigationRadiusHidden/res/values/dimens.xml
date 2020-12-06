@@ -17,5 +17,5 @@
 -->
 <resources>
     <!-- dimensions for the navigation bar handle -->
-    <dimen name="navigation_handle_radius">1dp</dimen>
+    <dimen name="navigation_handle_radius">2dp</dimen>
 </resources>

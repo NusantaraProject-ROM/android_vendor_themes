@@ -20,7 +20,7 @@
         android:versionCode="1"
         android:versionName="1.0">
     <overlay android:targetPackage="com.android.systemui"
-        android:category="com.android.internal.navigation_bar_mode"
+        android:category="com.android.internal.margin.navigation_bar_mode"
         android:priority="1"/>
 
     <application android:label="@string/navigation_bar_margin_low" android:hasCode="false"/>
