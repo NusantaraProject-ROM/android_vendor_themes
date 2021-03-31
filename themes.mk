@@ -106,3 +106,8 @@ PRODUCT_PACKAGES += \
     Retro \
     Narrow \
     Stockish
+
+# Cutout control overlays
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
