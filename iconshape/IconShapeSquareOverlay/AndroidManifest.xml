@@ -20,8 +20,8 @@
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android"
-        android:category="android.theme.customization.adaptive_icon_shape"
-        android:priority="1"/>
+        android:category="android.theme.customization.adaptive_iconshape"
+        android:priority="2"/>
 
     <application android:label="@string/icon_shape_square_overlay" android:hasCode="false"/>
 </manifest>

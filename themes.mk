@@ -19,6 +19,15 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay \
     IconShapeHeartOverlay
 
+# Adaptive icon
+PRODUCT_PACKAGES += \
+    IconPackCircularAndroidOverlay \
+    IconPackFilledAndroidOverlay \
+    IconPackKaiAndroidOverlay \
+    IconPackRoundedAndroidOverlay \
+    IconPackSamAndroidOverlay \
+    IconPackVictorAndroidOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \

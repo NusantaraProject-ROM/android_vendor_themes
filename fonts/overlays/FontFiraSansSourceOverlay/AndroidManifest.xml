@@ -20,8 +20,8 @@
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android"
-        android:category="android.theme.customization.font"
-        android:priority="1"/>
+        android:category="android.theme.customization.font_nad"
+        android:priority="2"/>
 
     <application android:label="@string/font_firasans_source_overlay" android:hasCode="false">
         <meta-data
