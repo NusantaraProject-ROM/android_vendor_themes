@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PanelBgBatik \
     PanelBgKece \
+    PanelBgGlassy \
     PanelBgOutline
 
 # Qs shape
