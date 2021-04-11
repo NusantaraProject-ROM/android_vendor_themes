@@ -3,22 +3,16 @@
     android:color="#555555">
     <item android:id="@android:id/mask">
         <shape>
-            <solid android:color="#FFFFFFFF" />
-		    <stroke
-                android:width ="2dp"
-                android:color="?android:attr/colorAccent"/>
-		    <corners android:bottomLeftRadius="?android:dialogCornerRadius" 
-			        android:bottomRightRadius="?android:dialogCornerRadius" 
-			        android:topLeftRadius="?android:dialogCornerRadius" 
-			        android:topRightRadius="?android:dialogCornerRadius" />
+            <solid android:color="@android:color/white" />
+            <corners android:radius="100dp" />
         </shape>
     </item>
     <item android:id="@android:id/background">
-        <shape android:shape="rectangle">
+        <shape android:shape="oval">
             <solid android:color="@android:color/white" />
 		    <stroke
                 android:width ="2dp"
-                android:color="?android:attr/colorAccent"/>
+                android:color="@*android:color/accent_device_default"/>
         </shape>
     </item>
 </ripple>
