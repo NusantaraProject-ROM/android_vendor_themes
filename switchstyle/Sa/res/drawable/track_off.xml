@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/track_off_background" />
+    <item
+        android:gravity="center"
+        android:height="1.6dip"
+        android:width="13.3dip"
+        android:drawable="@drawable/track_off_indicator"
+        android:left="21.0dip" />
+</layer-list>

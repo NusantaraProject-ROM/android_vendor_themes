@@ -114,7 +114,9 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
-    Stockish
+    Stockish \
+    Sa \
+    Sb
 
 # Cutout control overlays
 PRODUCT_PACKAGES += \
