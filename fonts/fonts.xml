@@ -75,62 +75,6 @@
     <alias name="fantasy" to="serif" />
     <alias name="ITC Stone Serif" to="serif" />
 
-    <family name="cagliostro">
-        <font weight="300" style="normal">Cagliostro-Regular.ttf</font>
-    </family>
-    <alias name="cagliostro-semi-bold" to="cagliostro" weight="600" />
-    <alias name="cagliostro-bold" to="cagliostro" weight="700" />
-    <alias name="times" to="cagliostro" />
-    <alias name="times new roman" to="cagliostro" />
-    <alias name="palatino" to="cagliostro" />
-    <alias name="georgia" to="cagliostro" />
-    <alias name="baskerville" to="cagliostro" />
-    <alias name="goudy" to="cagliostro" />
-    <alias name="fantasy" to="cagliostro" />
-    <alias name="ITC Stone Serif" to="cagliostro" />
-
-    <family name="lgsmartgothic">
-        <font weight="300" style="normal">LGSmartGothic.ttf</font>
-    </family>
-    <alias name="lgsmartgothic-semi-bold" to="lgsmartgothic" weight="600" />
-    <alias name="lgsmartgothic-bold" to="lgsmartgothic" weight="700" />
-    <alias name="times" to="lgsmartgothic" />
-    <alias name="times new roman" to="lgsmartgothic" />
-    <alias name="palatino" to="lgsmartgothic" />
-    <alias name="georgia" to="lgsmartgothic" />
-    <alias name="baskerville" to="lgsmartgothic" />
-    <alias name="goudy" to="lgsmartgothic" />
-    <alias name="fantasy" to="lgsmartgothic" />
-    <alias name="ITC Stone Serif" to="lgsmartgothic" />
-
-    <family name="rosemary">
-        <font weight="300" style="normal">Rosemary-Regular.ttf</font>
-    </family>
-    <alias name="rosemary-semi-bold" to="rosemary" weight="600" />
-    <alias name="rosemary-bold" to="rosemary" weight="700" />
-    <alias name="times" to="rosemary" />
-    <alias name="times new roman" to="rosemary" />
-    <alias name="palatino" to="rosemary" />
-    <alias name="georgia" to="rosemary" />
-    <alias name="baskerville" to="rosemary" />
-    <alias name="goudy" to="rosemary" />
-    <alias name="fantasy" to="rosemary" />
-    <alias name="ITC Stone Serif" to="rosemary" />
-
-    <family name="sonysketch">
-        <font weight="300" style="normal">SonySketch.ttf</font>
-    </family>
-    <alias name="sonysketch-semi-bold" to="sonysketch" weight="600" />
-    <alias name="sonysketch-bold" to="sonysketch" weight="700" />
-    <alias name="times" to="sonysketch" />
-    <alias name="times new roman" to="sonysketch" />
-    <alias name="palatino" to="sonysketch" />
-    <alias name="georgia" to="sonysketch" />
-    <alias name="baskerville" to="sonysketch" />
-    <alias name="goudy" to="sonysketch" />
-    <alias name="fantasy" to="sonysketch" />
-    <alias name="ITC Stone Serif" to="sonysketch" />
-
     <family name="googlesans">
         <font weight="400" style="normal">GoogleSans-Regular.ttf</font>
         <font weight="400" style="italic">GoogleSans-Italic.ttf</font>
@@ -152,78 +96,6 @@
     <alias name="goudy" to="googlesans" />
     <alias name="fantasy" to="googlesans" />
     <alias name="ITC Stone Serif" to="googlesans" />
-
-    <family name="oneplusslate">
-        <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
-        <font weight="400" style="normal">SlateFromOP-Regular.ttf</font>
-    </family>
-    <alias name="oneplusslate-light" to="oneplusslate" weight="300" />
-    <alias name="oneplusslate-regular" to="oneplusslate" weight="400" />
-    <alias name="oneplusslate-bold" to="oneplusslate" weight="600" />
-    <alias name="times" to="oneplusslate" />
-    <alias name="times new roman" to="oneplusslate" />
-    <alias name="palatino" to="oneplusslate" />
-    <alias name="georgia" to="oneplusslate" />
-    <alias name="baskerville" to="oneplusslate" />
-    <alias name="goudy" to="oneplusslate" />
-    <alias name="fantasy" to="oneplusslate" />
-    <alias name="ITC Stone Serif" to="oneplusslate" />
-
-    <family name="samsungone">
-        <font weight="400" style="normal">SamsungOne.ttf</font>
-    </family>
-    <alias name="samsungone-bold" to="samsungone" weight="600" />
-    <alias name="times" to="samsungone" />
-    <alias name="times new roman" to="samsungone" />
-    <alias name="palatino" to="samsungone" />
-    <alias name="georgia" to="samsungone" />
-    <alias name="baskerville" to="samsungone" />
-    <alias name="goudy" to="samsungone" />
-    <alias name="fantasy" to="samsungone" />
-    <alias name="ITC Stone Serif" to="samsungone" />
-
-    <family name="caviardreams">
-        <font weight="400" style="normal">CaviarDreams.ttf</font>
-        <font weight="400" style="italic">CaviarDreams_Italic.ttf</font>
-        <font weight="700" style="normal">CaviarDreams_Bold.ttf</font>
-        <font weight="700" style="italic">CaviarDreams_BoldItalic.ttf</font>
-    </family>
-    <alias name="caviardreams-semi-bold" to="caviardreams" weight="600" />
-    <alias name="caviardreams-bold" to="caviardreams" weight="700" />
-    <alias name="times" to="caviardreams" />
-    <alias name="times new roman" to="caviardreams" />
-    <alias name="palatino" to="caviardreams" />
-    <alias name="georgia" to="caviardreams" />
-    <alias name="baskerville" to="caviardreams" />
-    <alias name="goudy" to="caviardreams" />
-    <alias name="fantasy" to="caviardreams" />
-    <alias name="ITC Stone Serif" to="caviardreams" />
-
-    <family name="firasans">
-        <font weight="400" style="normal">FiraSans-Regular.ttf</font>
-        <font weight="400" style="italic">FiraSans-Italic.ttf</font>
-        <font weight="500" style="normal">FiraSans-Medium.ttf</font>
-        <font weight="500" style="italic">FiraSans-MediumItalic.ttf</font>
-        <font weight="700" style="normal">FiraSans-Bold.ttf</font>
-        <font weight="700" style="italic">FiraSans-BoldItalic.ttf</font>
-    </family>
-
-    <alias name="firasans-regular" to="firasans" weight="400" />
-    <alias name="firasans-medium" to="firasans" weight="500" />
-    <alias name="firasans-semi-bold" to="firasans" weight="600" />
-    <alias name="firasans-bold" to="firasans" weight="700" />
-    <alias name="times" to="firasans" />
-    <alias name="times new roman" to="firasans" />
-    <alias name="palatino" to="firasans" />
-    <alias name="georgia" to="firasans" />
-    <alias name="baskerville" to="firasans" />
-    <alias name="goudy" to="firasans" />
-    <alias name="fantasy" to="firasans" />
-    <alias name="ITC Stone Serif" to="firasans" />
-
-    <family name="linotte">
-        <font weight="300" style="normal">Linotte.ttf</font>
-    </family>
 
     <!-- Lockscren Fonts -->
     <family name="gobold-sys">
@@ -259,51 +131,6 @@
     <family name="phantombold-sys">
         <font weight="300" style="normal">PhantomBold-Regular.ttf</font>
     </family>
-
-    <family name="ubuntu">
-        <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
-        <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
-        <font weight="500" style="italic">Ubuntu-MediumItalic.ttf</font>
-        <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
-        <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
-    </family>
-
-    <alias name="ubuntu-regular" to="ubuntu" weight="400" />
-    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
-    <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
-    <alias name="ubuntu-bold" to="ubuntu" weight="700" />
-    <alias name="times" to="ubuntu" />
-    <alias name="times new roman" to="ubuntu" />
-    <alias name="palatino" to="ubuntu" />
-    <alias name="georgia" to="ubuntu" />
-    <alias name="baskerville" to="ubuntu" />
-    <alias name="goudy" to="ubuntu" />
-    <alias name="fantasy" to="ubuntu" />
-    <alias name="ITC Stone Serif" to="ubuntu" />
-
-    <family name="titilliumweb">
-        <font weight="300" style="normal">TitilliumWeb-Light.ttf</font>
-        <font weight="300" style="italic">TitilliumWeb-LightItalic.ttf</font>
-        <font weight="400" style="italic">TitilliumWeb-Italic.ttf</font>
-        <font weight="400" style="normal">TitilliumWeb-Regular.ttf</font>
-        <font weight="600" style="normal">TitilliumWeb-SemiBold.ttf</font>
-        <font weight="600" style="italic">TitilliumWeb-SemiBoldItalic.ttf</font>
-        <font weight="700" style="normal">TitilliumWeb-Bold.ttf</font>
-        <font weight="700" style="italic">TitilliumWeb-BoldItalic.ttf</font>
-    </family>
-
-    <alias name="titilliumweb-light" to="titilliumweb" weight="300" />
-    <alias name="titilliumweb-regular" to="titilliumweb" weight="400" />
-    <alias name="titilliumweb-semi-bold" to="titilliumweb" weight="600" />
-    <alias name="titilliumweb-bold" to="titilliumweb" weight="700" />
-    <alias name="times" to="titilliumweb" />
-    <alias name="times new roman" to="titilliumweb" />
-    <alias name="palatino" to="titilliumweb" />
-    <alias name="georgia" to="titilliumweb" />
-    <alias name="baskerville" to="titilliumweb" />
-    <alias name="goudy" to="titilliumweb" />
-    <alias name="fantasy" to="titilliumweb" />
-    <alias name="ITC Stone Serif" to="titilliumweb" />
 
     <family name="monospace">
         <font weight="400" style="normal">DroidSansMono.ttf</font>
