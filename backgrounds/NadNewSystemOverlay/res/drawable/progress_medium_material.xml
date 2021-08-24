@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@*android:drawable/vector_drawable_progress_bar_medium">
+  <target android:name="topleft" android:animation="@*android:anim/progress_indeterminate_material"/>
+  <target android:name="topright" android:animation="@*android:anim/progress_indeterminate_material"/>
+  <target android:name="bottomleft" android:animation="@*android:anim/progress_indeterminate_material"/>
+  <target android:name="bottomright" android:animation="@*android:anim/progress_indeterminate_material"/>
+  <target android:name="mainSq" android:animation="@*android:anim/progress_indeterminate_rotation_material"/>
+</animated-vector>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <shape android:dither="true" android:visible="false" android:shape="oval" android:useLevel="false">
+            <solid android:color="#00000000" />
+            <size android:height="0.1dip" android:width="0.1dip" />
+        </shape>
+    </item>
+    <item android:state_pressed="true" android:id="@*android:id/pressed">
+    <shape android:dither="true" android:visible="false" android:shape="oval" android:useLevel="false">
+        <solid android:color="#00000000" />
+        <size android:height="0.1dip" android:width="0.1dip" />
+    </shape>
+    </item>
+    <item android:id="@*android:id/unpressed">
+    <shape android:dither="true" android:visible="false" android:shape="oval" android:useLevel="false">
+        <solid android:color="#00000000" />
+        <size android:height="0.1dip" android:width="0.1dip" />
+    </shape>
+    </item>
+</animated-selector>

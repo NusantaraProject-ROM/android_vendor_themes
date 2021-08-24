@@ -7,7 +7,9 @@ PRODUCT_PACKAGES += \
     MaterialOceanSystemOverlay \
     MaterialOceanSystemUIOverlay \
     NadClearSystemOverlay \
-    NadClearSystemUIOverlay
+    NadClearSystemUIOverlay \
+    NadNewSystemOverlay \
+    NadNewSystemUIOverlay
 
 # Icon shape
 PRODUCT_PACKAGES += \
@@ -75,7 +77,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PanelBgBatik \
     PanelBgKece \
-    PanelBgOutline
+    PanelBgOutline 
 
 # Qs shape
 PRODUCT_PACKAGES += \

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="notification_side_paddings">0.0dip</dimen>
+	<dimen name="qs_notification_padding">0.0dip</dimen>
+	<dimen name="nad_margin">16.0dip</dimen>
+    <!-- The top margin of the notification panel. -->
+    <dimen name="notification_panel_margin_top">18dp</dimen>
+    <dimen name="notification_divider_height">0.0dip</dimen>
+	<dimen name="notification_header_margin_top">0dp</dimen>
+	<dimen name="notification_divider_height_increased">0dp</dimen>
+	<dimen name="notification_section_divider_height">2dp</dimen>
+	<dimen name="qs_drag_handle_width">60dp</dimen>
+	<dimen name="elevation_on_qs">0dp</dimen>
+
+</resources>

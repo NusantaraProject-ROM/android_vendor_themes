@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><set xmlns:android="http://schemas.android.com/apk/res/android" android:duration="400" android:fillAfter="true" android:fillBefore="true" android:ordering="together">
+  <objectAnimator android:interpolator="@android:interpolator/decelerate_quint" android:propertyName="strokeWidth" android:valueFrom="5" android:valueTo="2" android:valueType="floatType"/>
+</set>
