@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><set xmlns:android="http://schemas.android.com/apk/res/android" android:duration="400" android:fillAfter="true" android:fillBefore="true" android:ordering="together">
-  <objectAnimator android:interpolator="@android:interpolator/decelerate_quint" android:propertyName="scaleX" android:valueFrom="1" android:valueTo="0" android:valueType="floatType"/>
-  <objectAnimator android:interpolator="@android:interpolator/decelerate_quint" android:propertyName="scaleY" android:valueFrom="1" android:valueTo="0" android:valueType="floatType"/>
-</set>

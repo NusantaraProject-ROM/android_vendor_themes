@@ -1,8 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.system.switch.sa"
-    android:versionCode="1"
-    android:versionName="1.0">
-    <overlay android:targetPackage="android"/>
-
-    <application android:label="S a by dafha aji" android:hasCode="false"/>
-</manifest>
