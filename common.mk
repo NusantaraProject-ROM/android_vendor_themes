@@ -5,8 +5,11 @@ DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 # Boot animation
 include vendor/themes/bootanimation.mk
 
-# Fonts
+# Prebuilts
 include vendor/themes/prebuilts.mk
+
+# Fonts
+$(call inherit-product, vendor/themes/fonts/fonts.mk)
 
 # Themes
 include vendor/themes/themes.mk
