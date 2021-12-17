@@ -8,6 +8,9 @@ include vendor/themes/bootanimation.mk
 # Prebuilts
 include vendor/themes/prebuilts.mk
 
+# Themes
+include vendor/themes/themes.mk
+
 # Fonts
 $(call inherit-product, vendor/themes/fonts/fonts.mk)
 

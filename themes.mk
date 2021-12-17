@@ -9,3 +9,6 @@
 #    NavbarNexusOverlay \
 #    NavbarOldOverlay \
 #    NavbarSammyOverlay
+
+PRODUCT_PACKAGES += \
+	NavigationBarModeGesturalOverlayFS
