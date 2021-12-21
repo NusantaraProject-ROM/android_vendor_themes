@@ -21,7 +21,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # FOD
 ifeq ($(EXTRA_FOD_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
-    FodAnimationResources
+    UdfpsResources
 endif
 
 # Sounds

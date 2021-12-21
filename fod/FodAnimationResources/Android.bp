@@ -1,5 +1,5 @@
 android_app {
-    name: "FodAnimationResources",
+    name: "UdfpsResources",
     platform_apis: true,
     resource_dirs: ["res"],
     certificate: "platform",
