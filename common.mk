@@ -11,9 +11,6 @@ include vendor/themes/prebuilts.mk
 # Themes
 include vendor/themes/themes.mk
 
-# Fonts
-$(call inherit-product, vendor/themes/fonts/fonts.mk)
-
 # Set Pixel blue light theme on Gboard
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.ime.theme_id=5
