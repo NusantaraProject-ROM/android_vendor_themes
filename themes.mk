@@ -52,3 +52,17 @@ PRODUCT_PACKAGES += \
     IconPackOOSThemePickerOverlay \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusSystemUIOverlay
+
+# Icon Shapes
+PRODUCT_PACKAGES += \
+    IconShapeCylinderOverlay \
+    IconShapeHeartOverlay \
+    IconShapeHexagonOverlay \
+    IconShapeLeafOverlay \
+    IconShapePebbleOverlay \
+    IconShapeRoundedRectOverlay \
+    IconShapeSquareOverlay \
+    IconShapeSquircleOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
+    IconShapeVesselOverlay
