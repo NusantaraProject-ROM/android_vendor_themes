@@ -72,5 +72,5 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay
 
 # Themes
-#PRODUCT_PACKAGES += \
-#    AndroidBlackThemeOverlay
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
