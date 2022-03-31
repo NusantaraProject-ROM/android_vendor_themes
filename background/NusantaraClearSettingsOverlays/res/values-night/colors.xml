@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="search_bar_background">@android:color/transparent</color>
+    <color name="settingslib_colorSurfaceHeader">@android:color/transparent</color>
+    <color name="settingslib_primary_dark_device_default_settings">@*android:color/primary_device_default_settings</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/accent_device_default_dark</color>
+    
+    <color name="nav_bg">@android:color/transparent</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="global_actions_lite_background">#7f000000</color>
+    <color name="global_actions_lite_button_background">#90000000</color>
+    <color name="global_actions_lite_button_ring_color">#50ffffff</color>
+    <color name="global_actions_lite_text">@android:color/white</color>
+    <color name="global_actions_lite_emergency_background">#7fe72827</color>
+    <color name="global_actions_lite_emergency_icon">@android:color/black</color>
+    <color name="qs_footer_action_chip_color">#80000000</color>
+    <color name="notification_guts_bg_color">@android:color/black</color>
+    
+    <color name="volume_bg">#80000000</color>
+
+</resources>

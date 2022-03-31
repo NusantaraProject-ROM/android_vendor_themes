@@ -73,4 +73,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    NusantaraClearThemeOverlay \
+    NusantaraClearSystemUIOverlay \
+    NusantaraClearSettingsOverlay
+    

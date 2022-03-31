@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DeviceDefault" parent="@*android:style/Theme.DeviceDefaultBase">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowElevation">0.5dip</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowBackgroundFallback">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.NoActionBar" parent="Theme.DeviceDefault">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Settings" parent="Theme.DeviceDefault">
+        <item name="android:windowBlurBehindEnabled">true</item>
+        <item name="android:windowBlurBehindRadius">20dp</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
