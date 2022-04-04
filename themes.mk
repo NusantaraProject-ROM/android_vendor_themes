@@ -51,7 +51,10 @@ PRODUCT_PACKAGES += \
     IconPackOOSSystemUIOverlay \
     IconPackOOSThemePickerOverlay \
     IconPackAcherusAndroidOverlay \
-    IconPackAcherusSystemUIOverlay
+    IconPackAcherusSystemUIOverlay \
+    IconPackOutlineAndroidOverlay \
+    IconPackOutlineSettingsOverlay \
+    IconPackOutlineSystemUIOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
