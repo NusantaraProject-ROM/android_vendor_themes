@@ -20,5 +20,10 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
+    
+    <style name="Theme.DeviceDefault.QuickSettings" parent="Theme.DeviceDefault">
+        <!-- volume background -->
+        <item name="android:panelColorBackground">#aaffffff</item>
+    </style>
 
 </resources>
