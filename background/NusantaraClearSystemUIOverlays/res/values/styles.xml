@@ -25,5 +25,10 @@
         <item name="android:dialogCornerRadius">@dimen/notification_corner_radius</item>
         <item name="android:windowBackground">@android:color/transparent</item>
     </style>
+    
+    <style name="Theme.SystemUI.DayNightDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+    </style>
 
 </resources>

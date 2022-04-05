@@ -6,7 +6,7 @@
         <item name="android:windowElevation">0.5dip</item>
         <item name="android:windowBackground">@color/window_background</item>
         <item name="android:windowBackgroundFallback">@android:color/transparent</item>
-        <item name="android:backgroundDimEnabled">false</item>
+        <!--item name="android:backgroundDimEnabled">false</item-->
     </style>
 
     <style name="Theme.DeviceDefault.NoActionBar" parent="Theme.DeviceDefault">
