@@ -1,11 +1,10 @@
+ifneq ($(USE_GAPPS), true)
 # Prebuilt app
 PRODUCT_PACKAGES += \
-   SoundPickerPrebuilt
-
-ifneq ($(USE_GAPPS), true)
-PRODUCT_PACKAGES += \
+   SoundPickerPrebuilt \
    GalleryGoPrebuilt \
    ViaPrebuilt
+
 ifeq ($(USE_MICROG),true)
 PRODUCT_PACKAGES += \
    SimpleGalleryPrebuilt
