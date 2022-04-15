@@ -19,10 +19,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.ime.theme_id=5
 
 # FOD
-#ifeq ($(EXTRA_FOD_ANIMATIONS),true)
-#PRODUCT_PACKAGES += \
-#    UdfpsResources
-#endif
+ifeq ($(EXTRA_FOD_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    UdfpsResources
+endif
 
 # Sounds
 PRODUCT_PROPERTY_OVERRIDES += \
